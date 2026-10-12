@@ -1,15 +1,12 @@
 {
- "versionCode": 14,
- "versionName": "6.8",
+ "versionCode": 15,
+ "versionName": "6.9",
  "date": "2026-10-12",
  "notes": [
-  "New look: the Lights Out car and lettering from the cover on every screen",
-  "The tab you are on now has a compact red box",
-  "Fixed: tab names no longer appear twice at the top",
-  "Sharper app icon and a new opening animation based on the cover; no more white line at start-up",
-  "Choose how often the app checks for updates (every open, 1, 3 or 6 hours), with a notification when one is out"
+  "New opening animation: the Lights Out car races across a glossy track and LIGHTS OUT appears in its wake",
+  "New app icon: the five start lights with LIGHTS OUT, in high quality"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-6.8.apk",
- "sha256": "0fd40151897e029f27fb2db02231b0ad9f57f3ebdf7fc0f46742ef300368c17f",
- "size": 2183766
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-6.9.apk",
+ "sha256": "1429f265382db5ccbe0026a0a770777cd854f9d8edccec6ce595f9f7e90b7dfd",
+ "size": 1708630
 }
