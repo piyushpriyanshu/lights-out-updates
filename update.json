@@ -1,12 +1,11 @@
 {
- "versionCode": 16,
- "versionName": "6.9.1",
- "date": "2026-10-12",
+ "versionCode": 17,
+ "versionName": "6.9.2",
+ "date": "2026-10-13",
  "notes": [
-  "Tapping the app now goes straight into the opening animation, with no app icon shown first",
-  "The opening animation starts sooner; the app loads while the car is moving"
+  "Smoother opening animation: the car now runs across without stopping halfway"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-6.9.1.apk",
- "sha256": "175b72e05dada13f19e72dc27e431766d42f0a24442db82e91614187bf9a6be8",
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-6.9.2.apk",
+ "sha256": "6cca8c3d4671959e6aecb516e730c91f60ea04c9958eed2833f3c13afd13d7f9",
  "size": 1470983
 }
