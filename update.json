@@ -1,16 +1,12 @@
 {
- "versionCode": 12,
- "versionName": "6.6",
+ "versionCode": 13,
+ "versionName": "6.7",
  "date": "2026-10-12",
  "notes": [
-  "Chips and labels centred, including the Sprint badge",
-  "Opening animation: lights out and go",
-  "Scroll-wheel pickers for season, driver and team",
-  "New Season tab: Season stats and Points by race for every team",
-  "Finishing positions chart on driver pages",
-  "In-app updates: new versions now arrive here"
+  "Smoother opening: the five lights come on one by one, go out, then the swoosh",
+  "Podium chips on the calendar show full surnames, all three on one line"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-6.6.apk",
- "sha256": "317e0d1df44e2b833c70be70890fb8132c14278d86ca7ee76cb6401e811c6a36",
- "size": 1142946
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-6.7.apk",
+ "sha256": "a011c3fc1e54913565ac84ea47388957c40e958c250fec92a5833fa1517dcddf",
+ "size": 1224866
 }
