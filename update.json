@@ -1,12 +1,11 @@
 {
- "versionCode": 21,
- "versionName": "7.3",
+ "versionCode": 22,
+ "versionName": "7.4",
  "date": "2026-10-14",
  "notes": [
-  "V8 engine sound when the app opens: the 18,000 rpm scream of a classic F1 V8 flying past",
-  "Map buttons: centred on the screen; in full screen they sit just above the standings and speed panels"
+  "Full-screen map: the zoom buttons now sit in their own row just above the order and the driver panel, so they never cover the driver's photo"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-7.3.apk",
- "sha256": "b9096a65bf6005451b5a23178582c8a5373ea704419a935b7236188fafd567ab",
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-7.4.apk",
+ "sha256": "630fb4eda4a115f1ea559ff47a5c1777bdc629fe0441b51171c647ddd88a87ca",
  "size": 1671759
 }
