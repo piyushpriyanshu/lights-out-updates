@@ -1,13 +1,12 @@
 {
- "versionCode": 19,
- "versionName": "7.1",
+ "versionCode": 20,
+ "versionName": "7.2",
  "date": "2026-10-14",
  "notes": [
-  "Engine sound when the app opens: the car flies past left to right (switch in Settings; quiet when the phone is on silent)",
-  "Full-screen map: the track on top, the order with tyres and the picked driver's speed, throttle, brake, revs, gear and sectors below",
-  "Races > Tech: every part teams have declared to the FIA in 2026, by team and Grand Prix, with the part lit up on the car"
+  "Sharper car in Races > Tech (All teams) and in the opening animation",
+  "Team logos in the Tech updates Grand Prix list now match the Teams section"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-7.1.apk",
- "sha256": "03e52d5b1cd6e8edefbe8066616c9f6b339204320fcbb88d35305c9df12343f7",
- "size": 1569359
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-7.2.apk",
+ "sha256": "5e24f8db990e0fb283b81159de81f1b52b8c726bb2505241452a4b15f718d5a5",
+ "size": 1671759
 }
