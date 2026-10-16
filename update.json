@@ -1,12 +1,11 @@
 {
- "versionCode": 25,
- "versionName": "7.7",
+ "versionCode": 26,
+ "versionName": "7.8",
  "date": "2026-10-16",
  "notes": [
-  "Live map about five times more accurate: estimated cars follow a real lap at each circuit (free OpenF1 history)",
-  "The real lap updates through the weekend and is kept on your phone"
+  "Team pages: drivers who only stood in for some races (like Lawson at Red Bull and Tsunoda at Racing Bulls in 2026) are now marked, with the races they drove"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-7.7.apk",
- "sha256": "9f9e2ed14ff846cd0b61a98b7e01cd04e0ec92388807831795fa00f490540842",
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-7.8.apk",
+ "sha256": "2930ed154ba2d2e26bd4c1994bf50372f8443b4d6f22509285bbc8597661b670",
  "size": 1688143
 }
