@@ -1,14 +1,12 @@
 {
- "versionCode": 24,
- "versionName": "7.6",
+ "versionCode": 25,
+ "versionName": "7.7",
  "date": "2026-10-16",
  "notes": [
-  "Replays work again: F1 closed its timing archive (sign-in needed), so sessions now come from OpenF1",
-  "Full-screen map: qualifying shows the gaps to the fastest car",
-  "Corrections: the 2-hour race limit and the 2026 minimum weight",
-  "Haas car picture fixed"
+  "Live map about five times more accurate: estimated cars follow a real lap at each circuit (free OpenF1 history)",
+  "The real lap updates through the weekend and is kept on your phone"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-7.6.apk",
- "sha256": "92cb6382fd8758b8a6828674aaebff87fde560c75c1d0eaa2c5a9ceb23eb4c37",
- "size": 1684047
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-7.7.apk",
+ "sha256": "9f9e2ed14ff846cd0b61a98b7e01cd04e0ec92388807831795fa00f490540842",
+ "size": 1688143
 }
