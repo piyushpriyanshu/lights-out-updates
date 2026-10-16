@@ -1,14 +1,14 @@
 {
- "versionCode": 23,
- "versionName": "7.5",
- "date": "2026-10-14",
+ "versionCode": 24,
+ "versionName": "7.6",
+ "date": "2026-10-16",
  "notes": [
-  "Full-screen map: the order can be scrolled to the last car and stays where you leave it",
-  "Full-screen map: the order and driver panel end just above the play controls on every phone",
-  "Full-screen map: Jump to lap shows every lap and Close above the play controls",
-  "Driver codes always show in full in the order; the lap button stays on one line on narrow phones"
+  "Replays work again: F1 closed its timing archive (sign-in needed), so sessions now come from OpenF1",
+  "Full-screen map: qualifying shows the gaps to the fastest car",
+  "Corrections: the 2-hour race limit and the 2026 minimum weight",
+  "Haas car picture fixed"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-7.5.apk",
- "sha256": "67bc6198240cefef9a5e7829e94c54f2a7e4a813b2b996701ef115ad8e83bec1",
- "size": 1675855
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-7.6.apk",
+ "sha256": "92cb6382fd8758b8a6828674aaebff87fde560c75c1d0eaa2c5a9ceb23eb4c37",
+ "size": 1684047
 }
