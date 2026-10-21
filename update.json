@@ -1,11 +1,11 @@
 {
- "versionCode": 26,
- "versionName": "7.8",
- "date": "2026-10-16",
+ "versionCode": 27,
+ "versionName": "7.9",
+ "date": "2026-10-21",
  "notes": [
-  "Team pages: drivers who only stood in for some races (like Lawson at Red Bull and Tsunoda at Racing Bulls in 2026) are now marked, with the races they drove"
+  "Races calendar: the countdown now counts to the weekend's next session (like the home screen), with the race start shown below"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-7.8.apk",
- "sha256": "2930ed154ba2d2e26bd4c1994bf50372f8443b4d6f22509285bbc8597661b670",
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-7.9.apk",
+ "sha256": "aa9ecad1ad42361934cd4fdd547852b1e20b02ecd5da67d17d517d4e220d54d1",
  "size": 1688143
 }
