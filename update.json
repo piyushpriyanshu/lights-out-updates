@@ -1,12 +1,13 @@
 {
- "versionCode": 28,
- "versionName": "8.0",
- "date": "2026-10-23",
+ "versionCode": 29,
+ "versionName": "8.1",
+ "date": "2026-10-24",
  "notes": [
-  "Live map: F1's car positions are used only when they arrive on time; late or patchy ones no longer freeze the map, which follows the live timing instead",
-  "Replays: a clear message while a session is live (the free replay data pauses until 30 minutes after it ends)"
+  "Live map: the circuit's real lap is fetched in the background during race week, so it is ready before each session",
+  "Replays: best laps leave out deleted laps and in-laps (checked against the official US GP FP1 results)",
+  "Team radio: when F1 asks for a sign-in to play clips, the list shows who radioed and when, without buttons that can't work"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-8.0.apk",
- "sha256": "4d8ce60b75b17bbb1b1b8deaca5a7dc68dfd3fe14e6da9f488bca1fe7e3b68fc",
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-8.1.apk",
+ "sha256": "a8f658e4d2f9bb78cd1a65643885cbdcf6531a4ef78058a6c5b595d2668408f9",
  "size": 1688143
 }
