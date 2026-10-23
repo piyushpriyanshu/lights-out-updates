@@ -9,10 +9,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: pip install requests websocket-client
-      - run: python -u diag/record.py 240 > diag/summary.txt 2>&1 || true
+      - run: python -u diag/ref.py > diag/ref.txt 2>&1 || true
       - run: |
-          gzip -k diag/feed.jsonl || true
-          rm -f diag/feed.jsonl
           git config user.name "Lights Out diag"; git config user.email "noreply@anthropic.com"
-          git add diag/summary.txt diag/feed.jsonl.gz || git add diag/summary.txt
-          git commit -m "[results] live feed recording" && git push
+          git add diag/ref.txt; git add diag/ref9.json || true
+          git commit -m "[results] reference lap" && git push
