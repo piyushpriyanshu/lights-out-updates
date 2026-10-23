@@ -1,12 +1,18 @@
 name: diag-live
 on: { push: { branches: [diag-live-fp1] } }
+permissions: { contents: write }
 jobs:
   record:
+    if: "!contains(github.event.head_commit.message, '[results]')"
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - run: pip install requests websocket-client
-      - run: python diag/record.py 240 | tee diag/summary.txt
-      - uses: actions/upload-artifact@v4
-        with: { name: feed, path: "diag/*" }
+      - run: python -u diag/record.py 240 > diag/summary.txt 2>&1 || true
+      - run: |
+          gzip -k diag/feed.jsonl || true
+          rm -f diag/feed.jsonl
+          git config user.name "Lights Out diag"; git config user.email "noreply@anthropic.com"
+          git add diag/summary.txt diag/feed.jsonl.gz || git add diag/summary.txt
+          git commit -m "[results] live feed recording" && git push
