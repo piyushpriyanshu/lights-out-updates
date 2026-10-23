@@ -1,0 +1,12 @@
+name: diag-live
+on: { push: { branches: [diag-live-fp1] } }
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests websocket-client
+      - run: python diag/record.py 240 | tee diag/summary.txt
+      - uses: actions/upload-artifact@v4
+        with: { name: feed, path: "diag/*" }
