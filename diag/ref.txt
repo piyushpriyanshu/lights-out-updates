@@ -1,0 +1,5 @@
+sessions circuit_key=9 401 214
+Traceback (most recent call last):
+  File "/home/runner/work/lights-out-updates/lights-out-updates/diag/ref.py", line 10, in <module>
+    newest = max(ss, key=lambda s: P(s["date_start"]))
+ValueError: max() iterable argument is empty
