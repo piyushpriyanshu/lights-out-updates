@@ -1,11 +1,12 @@
 {
- "versionCode": 27,
- "versionName": "7.9",
- "date": "2026-10-21",
+ "versionCode": 28,
+ "versionName": "8.0",
+ "date": "2026-10-23",
  "notes": [
-  "Races calendar: the countdown now counts to the weekend's next session (like the home screen), with the race start shown below"
+  "Live map: F1's car positions are used only when they arrive on time; late or patchy ones no longer freeze the map, which follows the live timing instead",
+  "Replays: a clear message while a session is live (the free replay data pauses until 30 minutes after it ends)"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-7.9.apk",
- "sha256": "aa9ecad1ad42361934cd4fdd547852b1e20b02ecd5da67d17d517d4e220d54d1",
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-8.0.apk",
+ "sha256": "4d8ce60b75b17bbb1b1b8deaca5a7dc68dfd3fe14e6da9f488bca1fe7e3b68fc",
  "size": 1688143
 }
