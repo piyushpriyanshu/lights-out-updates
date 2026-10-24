@@ -5,12 +5,11 @@ jobs:
   record:
     if: "!contains(github.event.head_commit.message, '[results]')"
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - run: pip install requests
-      - run: python -u diag/fp1.py > diag/fp1.txt 2>&1 || true
+      - run: python -u diag/radio.py > diag/radio.txt 2>&1 || true
       - run: |
           git config user.name "Lights Out diag"; git config user.email "noreply@anthropic.com"
-          git add diag/fp1.txt diag/fp1 || git add diag/fp1.txt
-          git commit -m "[results] FP1 data" && git push
+          git add diag/radio.txt; git commit -m "[results] radio check" && git push
