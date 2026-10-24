@@ -1,15 +1,16 @@
 {
- "versionCode": 30,
- "versionName": "8.2",
+ "versionCode": 31,
+ "versionName": "8.3",
  "date": "2026-10-24",
  "notes": [
-  "Team radio plays again, live and in replays",
-  "Live commentary: overtakes, pit stops, fastest laps, flags and results as they happen, in step with your stream delay",
-  "Driver faces on the map instead of dots",
-  "A tighter order list: the whole field takes about a third less space",
-  "Small fixes for narrow phones and race control"
+  "A new look: one premium typeface, liquid-glass cards and calmer text across the app",
+  "Team colours: pick your team in Settings and the whole app takes its colour",
+  "Live: replay player with lead changes, retirements, fastest lap and flags on the timeline",
+  "Live: commentary card under the map, Timing (sectors and pace), Pit lane times, weather row and a race-control timeline",
+  "Settings rebuilt: My paddock (your driver gets a star), time format, true black and liquid glass switches",
+  "Nothing shown twice: this weekend's race, tiles and commentary each appear once"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-8.2.apk",
- "sha256": "4979a024a99378efa65e30cc38d4b295794b3489c11a68da6aa3f4d282d47eb1",
- "size": 1692239
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-8.3.apk",
+ "sha256": "2b027a8c34a6f494d7e9fafc8f424e741d8f208855575d5302fd0fd2a3abdbdf",
+ "size": 1921867
 }
