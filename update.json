@@ -1,12 +1,11 @@
 {
- "versionCode": 34,
- "versionName": "8.6",
+ "versionCode": 35,
+ "versionName": "8.7",
  "date": "2026-10-24",
  "notes": [
-  "Order list: Top 3/5/10/15/All menu, running pit timer with out/in/push laps, team logo and name under each driver, rows slide on position changes",
-  "Tap a tyre for its estimated life; player speed and close buttons on the lap line; team radio play icon fixed"
+  "Settings: the top bar reads only SETTINGS in the LIGHTS OUT lettering, with a back arrow and no car"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-8.6.apk",
- "sha256": "e4339f6abcd563e2ae686fb0f4b88bf1e184a914da1de83ce3dfbc14451e1265",
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-8.7.apk",
+ "sha256": "ce33551fe45adc315c6c992fdb498994edb3870c08d2743c22a9e94b39d178da",
  "size": 1925963
 }
