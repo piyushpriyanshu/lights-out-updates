@@ -1,11 +1,11 @@
 {
- "versionCode": 36,
- "versionName": "8.8",
+ "versionCode": 37,
+ "versionName": "8.9",
  "date": "2026-10-24",
  "notes": [
-  "Settings: the SETTINGS title is now as big as the LIGHTS lettering"
+  "Live: the Grand Prix card lists the whole weekend - finished sessions open their replays, the one on air is lit with a live dot, later ones show when they start"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-8.8.apk",
- "sha256": "ea0f929334b4d8a740c41c40b082b856ac69081617ebdb05cfca38475c667ec5",
- "size": 1925963
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-8.9.apk",
+ "sha256": "e26021c093133318e08334468513c03eed2a6f4075976a1f2e3cc8a2f74efe54",
+ "size": 1930059
 }
