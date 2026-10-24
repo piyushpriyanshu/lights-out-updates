@@ -1,0 +1,18 @@
+openf1 team_radio 11389 200 2069
+ clips 8 [{'meeting_key': 1297, 'session_key': 11389, 'driver_number': 27, 'date': '2026-10-23T17:27:36.720000+00:00', 'recording_url': 'https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_1/TeamRadio/HUL_27_20261023_122710.mp3'}]
+  403 text/html 919 BestHTTP x/2026-10-23_Practice_1/TeamRadio/HUL_27_20261023_122710.mp3
+  403 text/html 919 Mozilla/5. x/2026-10-23_Practice_1/TeamRadio/HUL_27_20261023_122710.mp3
+  403 text/html 919 BestHTTP x/2026-10-23_Practice_1/TeamRadio/HER_25_20261023_122727.mp3
+  403 text/html 919 Mozilla/5. x/2026-10-23_Practice_1/TeamRadio/HER_25_20261023_122727.mp3
+  403 text/html 919 BestHTTP ix/2026-10-23_Practice_1/TeamRadio/VER_3_20261023_123554.mp3
+  403 text/html 919 Mozilla/5. ix/2026-10-23_Practice_1/TeamRadio/VER_3_20261023_123554.mp3
+openf1 team_radio 11390 200 3099
+ clips 12 [{'meeting_key': 1297, 'session_key': 11390, 'driver_number': 11, 'date': '2026-10-23T20:56:51.306000+00:00', 'recording_url': 'https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_2/TeamRadio/PER_11_20261023_155645.mp3'}]
+  403 text/html 919 BestHTTP x/2026-10-23_Practice_2/TeamRadio/PER_11_20261023_155645.mp3
+  403 text/html 919 Mozilla/5. x/2026-10-23_Practice_2/TeamRadio/PER_11_20261023_155645.mp3
+  403 text/html 919 BestHTTP ix/2026-10-23_Practice_2/TeamRadio/HAD_6_20261023_160404.mp3
+  403 text/html 919 Mozilla/5. ix/2026-10-23_Practice_2/TeamRadio/HAD_6_20261023_160404.mp3
+  403 text/html 919 BestHTTP x/2026-10-23_Practice_2/TeamRadio/ANT_12_20261023_160657.mp3
+  403 text/html 919 Mozilla/5. x/2026-10-23_Practice_2/TeamRadio/ANT_12_20261023_160657.mp3
+probe 403 text/html https://livetiming.formula1.com/static/2026/Index.json <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.or
+probe 403 text/html 6/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_1/Index.json <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.or
