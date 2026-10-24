@@ -1,14 +1,12 @@
 {
- "versionCode": 32,
- "versionName": "8.4",
+ "versionCode": 33,
+ "versionName": "8.5",
  "date": "2026-10-24",
  "notes": [
-  "Switch session or Grand Prix without leaving the screen: it loads in the background",
-  "The arrow on the Grand Prix card opens every finished weekend with a replay",
-  "Tabs layout: every tab opens below the tabs, most important first",
-  "Settings: no second title under the top bar"
+  "Settings: My Paddock sits right under the top bar, like the other screens",
+  "My Paddock: pick your team too; it comes first in Races \u203a Teams"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-8.4.apk",
- "sha256": "623b8e83ae745ad78388764673ecd7bd1b4d4e18a0c87da0577a9e4f35cf7ed3",
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-8.5.apk",
+ "sha256": "55479242a3424caf54992f465e515343daf7533e956599e3c0db32a3104b426b",
  "size": 1921867
 }
