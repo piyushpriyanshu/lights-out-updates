@@ -1,16 +1,14 @@
 {
- "versionCode": 31,
- "versionName": "8.3",
+ "versionCode": 32,
+ "versionName": "8.4",
  "date": "2026-10-24",
  "notes": [
-  "A new look: one premium typeface, liquid-glass cards and calmer text across the app",
-  "Team colours: pick your team in Settings and the whole app takes its colour",
-  "Live: replay player with lead changes, retirements, fastest lap and flags on the timeline",
-  "Live: commentary card under the map, Timing (sectors and pace), Pit lane times, weather row and a race-control timeline",
-  "Settings rebuilt: My paddock (your driver gets a star), time format, true black and liquid glass switches",
-  "Nothing shown twice: this weekend's race, tiles and commentary each appear once"
+  "Switch session or Grand Prix without leaving the screen: it loads in the background",
+  "The arrow on the Grand Prix card opens every finished weekend with a replay",
+  "Tabs layout: every tab opens below the tabs, most important first",
+  "Settings: no second title under the top bar"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-8.3.apk",
- "sha256": "2b027a8c34a6f494d7e9fafc8f424e741d8f208855575d5302fd0fd2a3abdbdf",
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-8.4.apk",
+ "sha256": "623b8e83ae745ad78388764673ecd7bd1b4d4e18a0c87da0577a9e4f35cf7ed3",
  "size": 1921867
 }
