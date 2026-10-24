@@ -1,11 +1,11 @@
 {
- "versionCode": 35,
- "versionName": "8.7",
+ "versionCode": 36,
+ "versionName": "8.8",
  "date": "2026-10-24",
  "notes": [
-  "Settings: the top bar reads only SETTINGS in the LIGHTS OUT lettering, with a back arrow and no car"
+  "Settings: the SETTINGS title is now as big as the LIGHTS lettering"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-8.7.apk",
- "sha256": "ce33551fe45adc315c6c992fdb498994edb3870c08d2743c22a9e94b39d178da",
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-8.8.apk",
+ "sha256": "ea0f929334b4d8a740c41c40b082b856ac69081617ebdb05cfca38475c667ec5",
  "size": 1925963
 }
