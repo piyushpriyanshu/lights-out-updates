@@ -1,13 +1,15 @@
 {
- "versionCode": 29,
- "versionName": "8.1",
+ "versionCode": 30,
+ "versionName": "8.2",
  "date": "2026-10-24",
  "notes": [
-  "Live map: the circuit's real lap is fetched in the background during race week, so it is ready before each session",
-  "Replays: best laps leave out deleted laps and in-laps (checked against the official US GP FP1 results)",
-  "Team radio: when F1 asks for a sign-in to play clips, the list shows who radioed and when, without buttons that can't work"
+  "Team radio plays again, live and in replays",
+  "Live commentary: overtakes, pit stops, fastest laps, flags and results as they happen, in step with your stream delay",
+  "Driver faces on the map instead of dots",
+  "A tighter order list: the whole field takes about a third less space",
+  "Small fixes for narrow phones and race control"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-8.1.apk",
- "sha256": "a8f658e4d2f9bb78cd1a65643885cbdcf6531a4ef78058a6c5b595d2668408f9",
- "size": 1688143
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-8.2.apk",
+ "sha256": "4979a024a99378efa65e30cc38d4b295794b3489c11a68da6aa3f4d282d47eb1",
+ "size": 1692239
 }
