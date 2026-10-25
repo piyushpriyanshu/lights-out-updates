@@ -1,11 +1,11 @@
 # Lights Out updates
 
-Latest version: **9.1** (25 Oct 2026)
+Latest version: **9.2** (25 Oct 2026)
 
 The Lights Out app checks this page and offers new versions by itself.
-To install by hand, download [LightsOut-9.1.apk](LightsOut-9.1.apk).
+To install by hand, download [LightsOut-9.2.apk](LightsOut-9.2.apk).
 
 ## What's new
-- Share card: drivers' faces now show, as in the app's standings (the face on a disc of the team colour), in sharper photos
-- Share card, light look: every team logo sits on a dark badge, so none disappears (Ferrari keeps its colours)
-- Replays picker: earlier seasons too (the five before this one, where replays exist)
+- Races: after qualifying the starting grid and the qualifying table show straight away (from F1's own timing, marked provisional, until the official results are published)
+- Replays picker: 2025 and 2024 now show (the seasons were asked for too fast for OpenF1, and a failed one was not tried again)
+- Live: back from live timing disconnects it again during a race weekend; a slow lookup no longer replaces the screen you moved to

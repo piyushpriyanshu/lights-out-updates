@@ -1,13 +1,13 @@
 {
- "versionCode": 39,
- "versionName": "9.1",
+ "versionCode": 40,
+ "versionName": "9.2",
  "date": "2026-10-25",
  "notes": [
-  "Share card: drivers' faces now show, as in the app's standings (the face on a disc of the team colour), in sharper photos",
-  "Share card, light look: every team logo sits on a dark badge, so none disappears (Ferrari keeps its colours)",
-  "Replays picker: earlier seasons too (the five before this one, where replays exist)"
+  "Races: after qualifying the starting grid and the qualifying table show straight away (from F1's own timing, marked provisional, until the official results are published)",
+  "Replays picker: 2025 and 2024 now show (the seasons were asked for too fast for OpenF1, and a failed one was not tried again)",
+  "Live: back from live timing disconnects it again during a race weekend; a slow lookup no longer replaces the screen you moved to"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-9.1.apk",
- "sha256": "1a24d054058c1d50d5576e063f08ace4a6816d0e1996cdd7c7a4b282427536d0",
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-9.2.apk",
+ "sha256": "8ed9d744b23bd8d80e950767d1cc685666bef153f3c3fc0ee79bcd3d32cb96c6",
  "size": 1946443
 }
