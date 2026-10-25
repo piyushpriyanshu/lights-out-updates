@@ -1,14 +1,13 @@
 {
- "versionCode": 38,
- "versionName": "9.0",
+ "versionCode": 39,
+ "versionName": "9.1",
  "date": "2026-10-25",
  "notes": [
-  "Live tab during a race weekend: a finished session shows its results (top three, classification, timing, race control, radio) with Replay and Share recap; a session to come shows a countdown",
-  "Share recap makes a share card picture, dark or light, to save to your photos or share",
-  "Timing: lap times that included time in the garage (17:23.067) are gone, and the final order follows the official classification",
-  "Team radio: clips are written out by themselves, and a new Best speech model with F1 words makes the text far closer to what is said"
+  "Share card: drivers' faces now show, as in the app's standings (the face on a disc of the team colour), in sharper photos",
+  "Share card, light look: every team logo sits on a dark badge, so none disappears (Ferrari keeps its colours)",
+  "Replays picker: earlier seasons too (the five before this one, where replays exist)"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-9.0.apk",
- "sha256": "53d403ff780964e28f0b7965ae2b3d913c8de5320281243cdcc04f04c731c777",
- "size": 1942347
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-9.1.apk",
+ "sha256": "1a24d054058c1d50d5576e063f08ace4a6816d0e1996cdd7c7a4b282427536d0",
+ "size": 1946443
 }
