@@ -1,13 +1,17 @@
 {
- "versionCode": 40,
- "versionName": "9.2",
+ "versionCode": 41,
+ "versionName": "9.3",
  "date": "2026-10-25",
  "notes": [
-  "Races: after qualifying the starting grid and the qualifying table show straight away (from F1's own timing, marked provisional, until the official results are published)",
-  "Replays picker: 2025 and 2024 now show (the seasons were asked for too fast for OpenF1, and a failed one was not tried again)",
-  "Live: back from live timing disconnects it again during a race weekend; a slow lookup no longer replaces the screen you moved to"
+  "Race grid: F1's official starting grid with grid penalties applied, as soon as it is published",
+  "Results straight after a race or Sprint from F1's own timing (and the podium in the calendar), until the official results arrive",
+  "Always current: results and standings refresh during race weekends, when you come back to the app, and in the background",
+  "Track maps: Straight Mode zones and Overtake points from the FIA circuit map; cars in a zone glow green",
+  "Driver and team stats counted as formula1.com does: poles, Grands Prix entered, DNFs, DSQ and DNS",
+  "Corrected qualifying times and pit stop counts in replays and weekend results",
+  "Rulebook and course fixes (Q3 is 13 minutes, 768 kg minimum weight and more); US GP tech updates"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-9.2.apk",
- "sha256": "8ed9d744b23bd8d80e950767d1cc685666bef153f3c3fc0ee79bcd3d32cb96c6",
- "size": 1946443
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-9.3.apk",
+ "sha256": "c3d11088884dedb3e6875c9b57048d6c9ed4132ffb3a3cb3ec67630286077619",
+ "size": 1962827
 }
