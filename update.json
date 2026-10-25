@@ -1,11 +1,14 @@
 {
- "versionCode": 37,
- "versionName": "8.9",
- "date": "2026-10-24",
+ "versionCode": 38,
+ "versionName": "9.0",
+ "date": "2026-10-25",
  "notes": [
-  "Live: the Grand Prix card lists the whole weekend - finished sessions open their replays, the one on air is lit with a live dot, later ones show when they start"
+  "Live tab during a race weekend: a finished session shows its results (top three, classification, timing, race control, radio) with Replay and Share recap; a session to come shows a countdown",
+  "Share recap makes a share card picture, dark or light, to save to your photos or share",
+  "Timing: lap times that included time in the garage (17:23.067) are gone, and the final order follows the official classification",
+  "Team radio: clips are written out by themselves, and a new Best speech model with F1 words makes the text far closer to what is said"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-8.9.apk",
- "sha256": "e26021c093133318e08334468513c03eed2a6f4075976a1f2e3cc8a2f74efe54",
- "size": 1930059
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-9.0.apk",
+ "sha256": "53d403ff780964e28f0b7965ae2b3d913c8de5320281243cdcc04f04c731c777",
+ "size": 1942347
 }
