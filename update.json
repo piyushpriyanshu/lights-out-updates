@@ -1,16 +1,15 @@
 {
- "versionCode": 42,
- "versionName": "9.4",
+ "versionCode": 43,
+ "versionName": "9.5",
  "date": "2026-11-01",
  "notes": [
-  "Stewards live: every penalty and investigation as it happens \u2014 a Stewards list, +5/DT/SG/INV marks in the order, a banner, and on the lock-screen Live Update",
-  "Results switch to F1's official classification once it's out (penalties after the flag included); before that, unserved time penalties are added and marked provisional",
-  "Share card: the winner shows the race time, like the others' gaps",
-  "Fixes: Races tab froze during races; pit stops on the driver's own lap; stale results after a replay; half-loaded stats now retry; and more",
-  "Reminders on time on Android 13+, in your current time zone, and they follow a moved session",
-  "Offline note, Settings > Problem report, recovery if the page crashes"
+  "New live card on your lock screen and in notifications: flag status, lap and race progress, the top four and your driver with team colours, tyres, places gained, and stewards' news",
+  "Qualifying on the card: best laps, gaps and the drop zone",
+  "Replay speed: pick 1\u00d7, 2\u00d7, 4\u00d7, 8\u00d7, 16\u00d7, 32\u00d7 or 60\u00d7",
+  "Radio as text: a quick draft in a second or two, then the checked text; names spelt right; Accurate is now the recommended model",
+  "Settings: the chosen team's ring in Accent is no longer cut off"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-9.4.apk",
- "sha256": "937877a52f3ad8540fca65e309322d6786f3a9c42e891219fc2b1426f8c17907",
- "size": 1975115
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-9.5.apk",
+ "sha256": "175b1f8b783681bc939b8965e40328c4970c0a076028b32f4ad1f4c4a97d1033",
+ "size": 1991774
 }
