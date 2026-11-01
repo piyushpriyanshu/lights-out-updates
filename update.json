@@ -1,17 +1,16 @@
 {
- "versionCode": 41,
- "versionName": "9.3",
- "date": "2026-10-25",
+ "versionCode": 42,
+ "versionName": "9.4",
+ "date": "2026-11-01",
  "notes": [
-  "Race grid: F1's official starting grid with grid penalties applied, as soon as it is published",
-  "Results straight after a race or Sprint from F1's own timing (and the podium in the calendar), until the official results arrive",
-  "Always current: results and standings refresh during race weekends, when you come back to the app, and in the background",
-  "Track maps: Straight Mode zones and Overtake points from the FIA circuit map; cars in a zone glow green",
-  "Driver and team stats counted as formula1.com does: poles, Grands Prix entered, DNFs, DSQ and DNS",
-  "Corrected qualifying times and pit stop counts in replays and weekend results",
-  "Rulebook and course fixes (Q3 is 13 minutes, 768 kg minimum weight and more); US GP tech updates"
+  "Stewards live: every penalty and investigation as it happens \u2014 a Stewards list, +5/DT/SG/INV marks in the order, a banner, and on the lock-screen Live Update",
+  "Results switch to F1's official classification once it's out (penalties after the flag included); before that, unserved time penalties are added and marked provisional",
+  "Share card: the winner shows the race time, like the others' gaps",
+  "Fixes: Races tab froze during races; pit stops on the driver's own lap; stale results after a replay; half-loaded stats now retry; and more",
+  "Reminders on time on Android 13+, in your current time zone, and they follow a moved session",
+  "Offline note, Settings > Problem report, recovery if the page crashes"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-9.3.apk",
- "sha256": "c3d11088884dedb3e6875c9b57048d6c9ed4132ffb3a3cb3ec67630286077619",
- "size": 1962827
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-9.4.apk",
+ "sha256": "937877a52f3ad8540fca65e309322d6786f3a9c42e891219fc2b1426f8c17907",
+ "size": 1975115
 }
