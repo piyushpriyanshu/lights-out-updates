@@ -1,13 +1,11 @@
 # Lights Out updates
 
-Latest version: **9.5** (01 Nov 2026)
+Latest version: **9.6** (08 Nov 2026)
 
 The Lights Out app checks this page and offers new versions by itself.
-To install by hand, download [LightsOut-9.5.apk](LightsOut-9.5.apk).
+To install by hand, download [LightsOut-9.6.apk](LightsOut-9.6.apk).
 
 ## What's new
-- New live card on your lock screen and in notifications: flag status, lap and race progress, the top four and your driver with team colours, tyres, places gained, and stewards' news
-- Qualifying on the card: best laps, gaps and the drop zone
-- Replay speed: pick 1×, 2×, 4×, 8×, 16×, 32× or 60×
-- Radio as text: a quick draft in a second or two, then the checked text; names spelt right; Accurate is now the recommended model
-- Settings: the chosen team's ring in Accent is no longer cut off
+- Fixed: the "Couldn't refresh: showing saved data" note could get stuck on screen. It now shows only when nothing at all is coming through, for 6 seconds, and a tap closes it
+- No connection: the note shows while you're offline, a tap closes it
+- New signing key: install this version by hand once (uninstall the old app first)

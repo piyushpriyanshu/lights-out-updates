@@ -1,15 +1,13 @@
 {
- "versionCode": 43,
- "versionName": "9.5",
- "date": "2026-11-01",
+ "versionCode": 44,
+ "versionName": "9.6",
+ "date": "2026-11-08",
  "notes": [
-  "New live card on your lock screen and in notifications: flag status, lap and race progress, the top four and your driver with team colours, tyres, places gained, and stewards' news",
-  "Qualifying on the card: best laps, gaps and the drop zone",
-  "Replay speed: pick 1\u00d7, 2\u00d7, 4\u00d7, 8\u00d7, 16\u00d7, 32\u00d7 or 60\u00d7",
-  "Radio as text: a quick draft in a second or two, then the checked text; names spelt right; Accurate is now the recommended model",
-  "Settings: the chosen team's ring in Accent is no longer cut off"
+  "Fixed: the \"Couldn't refresh: showing saved data\" note could get stuck on screen. It now shows only when nothing at all is coming through, for 6 seconds, and a tap closes it",
+  "No connection: the note shows while you're offline, a tap closes it",
+  "New signing key: install this version by hand once (uninstall the old app first)"
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-9.5.apk",
- "sha256": "175b1f8b783681bc939b8965e40328c4970c0a076028b32f4ad1f4c4a97d1033",
- "size": 1991774
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-9.6.apk",
+ "sha256": "1f0b3e524a934e536b37145c29a0de33a78e5d2ccea7aed020265c06d7a97810",
+ "size": 1999966
 }
