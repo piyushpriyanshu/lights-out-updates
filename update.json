@@ -1,13 +1,12 @@
 {
- "versionCode": 44,
- "versionName": "9.6",
- "date": "2026-11-08",
+ "versionCode": 45,
+ "versionName": "9.7",
+ "date": "2026-11-21",
  "notes": [
-  "Fixed: the \"Couldn't refresh: showing saved data\" note could get stuck on screen. It now shows only when nothing at all is coming through, for 6 seconds, and a tap closes it",
-  "No connection: the note shows while you're offline, a tap closes it",
-  "New signing key: install this version by hand once (uninstall the old app first)"
+  "The saved-data note is now one centred line.",
+  "When F1 or OpenF1 refuse a request (OpenF1 does during live sessions), the app no longer shows \"Couldn't refresh\" and no longer asks again and again."
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-9.6.apk",
- "sha256": "1f0b3e524a934e536b37145c29a0de33a78e5d2ccea7aed020265c06d7a97810",
- "size": 1999966
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-9.7.apk",
+ "sha256": "5a3466544dd74ddd3e72467633e20d545bd03aa515f3bc262eabc7fb6154bf47",
+ "size": 2004062
 }

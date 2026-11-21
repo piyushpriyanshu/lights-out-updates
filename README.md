@@ -1,11 +1,10 @@
 # Lights Out updates
 
-Latest version: **9.6** (08 Nov 2026)
+Latest version: **9.7** (21 Nov 2026)
 
 The Lights Out app checks this page and offers new versions by itself.
-To install by hand, download [LightsOut-9.6.apk](LightsOut-9.6.apk).
+To install by hand, download [LightsOut-9.7.apk](LightsOut-9.7.apk).
 
 ## What's new
-- Fixed: the "Couldn't refresh: showing saved data" note could get stuck on screen. It now shows only when nothing at all is coming through, for 6 seconds, and a tap closes it
-- No connection: the note shows while you're offline, a tap closes it
-- New signing key: install this version by hand once (uninstall the old app first)
+- The saved-data note is now one centred line.
+- When F1 or OpenF1 refuse a request (OpenF1 does during live sessions), the app no longer shows "Couldn't refresh" and no longer asks again and again.
