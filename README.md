@@ -1,10 +1,9 @@
 # Lights Out updates
 
-Latest version: **9.7** (21 Nov 2026)
+Latest version: **9.8** (21 Nov 2026)
 
 The Lights Out app checks this page and offers new versions by itself.
-To install by hand, download [LightsOut-9.7.apk](LightsOut-9.7.apk).
+To install by hand, download [LightsOut-9.8.apk](LightsOut-9.8.apk).
 
 ## What's new
-- The saved-data note is now one centred line.
-- When F1 or OpenF1 refuse a request (OpenF1 does during live sessions), the app no longer shows "Couldn't refresh" and no longer asks again and again.
+- "Live" now ends when the session does: once its planned time has passed, the app checks F1's live feed, and Home's live card and the Live dot go as soon as it is over.

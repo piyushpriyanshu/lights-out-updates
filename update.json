@@ -1,12 +1,11 @@
 {
- "versionCode": 45,
- "versionName": "9.7",
+ "versionCode": 46,
+ "versionName": "9.8",
  "date": "2026-11-21",
  "notes": [
-  "The saved-data note is now one centred line.",
-  "When F1 or OpenF1 refuse a request (OpenF1 does during live sessions), the app no longer shows \"Couldn't refresh\" and no longer asks again and again."
+  "\"Live\" now ends when the session does: once its planned time has passed, the app checks F1's live feed, and Home's live card and the Live dot go as soon as it is over."
  ],
- "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-9.7.apk",
- "sha256": "5a3466544dd74ddd3e72467633e20d545bd03aa515f3bc262eabc7fb6154bf47",
+ "apk": "https://raw.githubusercontent.com/piyushpriyanshu/lights-out-updates/main/LightsOut-9.8.apk",
+ "sha256": "739c7c0da2bb414fb9f27bc3c29a2cd83a8672ad1ca8ab41636c1049352cbead",
  "size": 2004062
 }
